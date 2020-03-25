@@ -9,7 +9,7 @@ train label distribution | test label distribution
 ![train dist](train_dist.png) | ![test dist](test_dist.png)
 
 Baseline score using Multinomial Naive Bayes
-![score](scsores.PNG)
+![score](scores.PNG)
 
 Confusion Matrix
 No Stopwords | Using Stopwords
